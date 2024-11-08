@@ -1,0 +1,5 @@
+- [Navigation: This page allows you to navigate through YardRat's Blog](navi.md)
+- Everything About ...
+	- [YardRat](about/yardrat.md) (Under construction)
+- Posts
+	- [The initial post](posts/initial.md) (Under construction)
