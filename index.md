@@ -1,4 +1,6 @@
-This is yardrat's personal blog! 
+In the absence of a story, I am left to write myself as the metaphor of myself.
+
+Oops...I didn't notice you, my guest, and welcome to YardRat's personal blog. 
 
 ## Who is yardrat? 
 
@@ -35,6 +37,8 @@ I have a lot of interests, and sometimes it’s nice to have a space where I can
 - Gotta find a place to dump some fellow bloggers' links
 
 Another reason? Gotta have a spot to dump some links from fellow bloggers. And it's worthy pointing out that, they don't even bother to dump my link on their blog. :(
+
+About those fellow bloggers who dumped or not even dumped my link, please come here: [Everything about Friend Link](about/link.md)
 
 ## How is this blog constructed? 
 
