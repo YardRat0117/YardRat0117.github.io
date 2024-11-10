@@ -1,4 +1,4 @@
-In the absence of a story, I am left to write myself as the metaphor of myself.
+> In the absence of a story, I am left to write myself as the metaphor of myself.
 
 Oops...I didn't notice you, my guest, and welcome to YardRat's personal blog. 
 
