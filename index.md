@@ -1,28 +1,28 @@
 > In the absence of a story, I am left to write myself as the metaphor of myself.
 
-Oops...I didn't notice you, my guest, and welcome to YardRat's personal blog. 
+Oops ... didn't notice you just now. Welcome to YardRat's personal blog! 
 
 ## Who is yardrat? 
 
-So here's Yardrat, currently an undergrad student majoring in BME(bio-medical engineering) at ZJU(Zhejiang University). If you wanna grasp a sketch of him, I guess the following FAQs could help.  
+So here's Yardrat, currently an undergrad student majoring in CS(computer science) at ZJU(Zhejiang University). If you wanna grasp a sketch of him, I guess the following FAQs could help.  
 
 - Q1: What are your passions? 
 
-- A1: Ah, 'passions'. You know, to be honest, I don't really think that an undergrad student, starting from scratch, could really found something worth calling a 'passion'. But if I gotta come up with an answer, I guess it would be 'AGI(Artificial General Intelligence)'. We're all aware that there's still a long way to go, but why not dream something fantastic?  
+- A1: Well, about 'passions' - to be honest, I don't really think that an undergrad student, starting from scratch, could really found something worth calling a 'passion'. But if I name one, I guess it would be 'AGI(Artificial General Intelligence)'. Sure it's a distant dream, but why not dream something fantastic?  
 
-- Q2: Then why did you choose BME? 
+- Q2: Then why did you choose CS? 
 
-- A2: Well...I didn't literally 'choose' BME, rather I was allocated to BME. As a matter of fact, I was admitted into the General Info-Engineering Program(not sure if the translation is perfect, so here's the Chinese name: '工科试验班信息'), went through a pretty intense(the application-admission ratio was about 1.4 or somewhat 1.5) competition for major in CS(computer science), and then failed, hence BME.  
+- A2: Well...I chose CS ever since my senior high years, but walked through a quite path quite far from straightforward to CS. Initially, I was admitted into the General Info-Engineering Program, dreaming for a CS major, but failed the first round of major selection and ended up in BME(Bio-medical Engineering). However, I didn't give up, and in the second round, I made it through - 32 people fighting for 6 spots. It was a bit of detour, but I'm happy with how things turned out. You can check out [major](about/major.md) for more details about this journey. 
 
-- Q3: Sorry to hear that, so what about your next step? 
+- Q3: Happy to hear that, so what about your next step? 
 
-- A3: I guess I would still consider a major transfer to CS, although it could be much more intense. As mentioned before, my so-called 'passion' is AGI, thus necessary to work as a CSer(at least I guess so). I might also try to work on AI during my grad years, or even continue working in the field of BME(you gotta admit that *FURRY ONEESAN VIRTUAL LOVE BRAIN CHIP* really stuns).
+- A3: Despite that working in the field of BME might indicate a career path where you work on *FURRY ONEESAN VIRTUAL LOVE BRAIN CHIP* (which really stuns), I still would enjoy a career that leads me toward some research work concerning computer science. And as an undergrad student, I guess my next steps are to maintain a satisfying gpa, to involve in research, ~~to get myself a girlfriend, ~~ and so on.  
 
-- Q4: Let's talk about something happy, such as, your hobbies? 
+- Q4: Then, what about your hobbies? 
 
-- A4: Emm...I kinda hate a binary classification for things: these're 'hobbies' and those're 'works', and whatever. Instead, I'd rather import a model about 'projects' and 'dashboard', where you pick up 'project(s)' and gain development in your 'dashboard'. And when it comes to what's on my project-list, I think it would be furry-fandom, psychology, philosophy, foreign-languages, ACGN(anime, comics, games, and novels), Haruki Murakami, etc.(for your info, I might work on a set of posts about my 'projects' later)
+- A4: Emm...I kinda hate a binary classification for things: these're 'hobbies' and those're 'works', and whatever. Instead, I'd rather prefer a model about 'projects' and 'dashboard', where you pick up 'project(s)' and gain development in your 'dashboard'. And when it comes to what's on my todo-project-list, I think it would be furry-fandom, psychology, philosophy, foreign-languages, ACGN(anime, comics, games, and novels), Haruki Murakami, etc.(for your info, I might work on a set of posts about my 'projects' later)
 
-For more about YardRat, please come here: [Everything about YardRat](about/yardrat.md)
+For more about YardRat, please check out [Everything about YardRat](about/yardrat.md).
 
 ## Why this blog? 
 
@@ -36,11 +36,15 @@ I have a lot of interests, and sometimes it’s nice to have a space where I can
 
 - Gotta find a place to dump some fellow bloggers' links
 
-Another reason? Gotta have a spot to dump some links from fellow bloggers. And it's worthy pointing out that, they don't even bother to dump my link on their blog. :(
+Another reason? 'Gotta have a spot to dump some links from fellow bloggers' sounds alike. 
 
-About those fellow bloggers who dumped or not even dumped my link, please come here: [Everything about Friend Link](about/link.md)
+~~And it's worthy pointing out that, they don't even bother to dump my link on their blog. :(~~
+
+Latest update: some of them finally spared a bit of their empathy and dumped my link. :)  Check out [Everything about Friend Link](about/link.md) to find more about this. 
 
 ## How is this blog constructed? 
+
+~~(Just omit this part, which is generated by ChatGPT and dupmed for integrity of this page.)~~
 
 This blog is built totally with Markdown and GitHub Pages.
 
