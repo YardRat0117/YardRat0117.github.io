@@ -8,7 +8,7 @@ So, I'm gonna assume you've already read the "about me" post - and got a rough i
 
 Before we really begin to discuss about this site, I regret to inform you that, my producing this site is nothing more than another kind of OCD syndrome - I `git init`, I write, and then - inevitably - I `ggdG` (go to file head and delete till end, in Vim) - I always regard my own previous production as "pointless". 
 
-And what fortifies this diagnosis would be my constant reconfiguration - I've been rebuilding this site from now to then, sometimes with its style, or sometimes with its function. Consequently, never shall its relics be revealed to the world instead of overwritten by another ready-to-ruin successor.
+And what fortifies this diagnosis would be my constant reconfiguration - I've been rebuilding this site from time to time, sometimes with its style, or sometimes with its function. Consequently, never shall its relics be revealed to the world instead of overwritten by another ready-to-ruin successor.
 
 Thus, since we're done with talking about these OCD syndromes, "why I still built this site", as the title suggests. 
 
@@ -16,7 +16,7 @@ Most of my fellow bloggers would claim to "socialize", to "note down courses", o
 
 However, I'd rather label such production as "rubbish corpus for LLMs", since they are just conducting duplicate works, often of even lower quality than their cited references. I'm not intended to criticize **any**one else - or you can think it as criticizing **every**one else, as you may think so.
 
-And hence, I'd rather produce as less as possible for such posts (some were reserved for certain reasons **before**, but now they are already gone).
+And hence, I'd rather produce as little as possible for such posts (some were reserved for certain reasons **before**, but now they are already gone).
 
 So we're still not done with the issue - "why I still built this site?" I'd rather think of it as some kind of **subjectivation** - keep externalizing my thoughts, habits, and compulsions, mostly for no one, and often to no meaningful end. 
 
