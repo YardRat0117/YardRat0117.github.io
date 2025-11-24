@@ -4,6 +4,8 @@ title: About me
 subtitle: Free software is a matter of liberty, not price - but liberty is always interpellated.
 ---
 
+> For your info, I've done a CI/CD pipeline to build my resume, and you can check [this repo](https://github.com/YardRat0117/dev-infra-yardrat) and [this pdf](https://yardrat0117.github.io/dev-infra-yardrat/anomy-resume.pdf) for it.
+
 So, I guess that's all you need to know about me: currently a CS-major undergrad student.
 
 I worked on several research projects, in LLM security and privacy over the last year, which turned out to be quite stressful. 
