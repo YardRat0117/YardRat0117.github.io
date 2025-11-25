@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Timeline
-subtitle: WIP
+subtitle: Documentation is never innocent; it is always an instrument of power.
 ---
+
+> This is a timeline for me, and it's maintained as a YAML file [here](https://github.com/YardRat0117/timeline)
 
 <div id="timeline" style="height: 90vh; border: 1px solid lightgray;"></div>
 
@@ -13,7 +15,7 @@ subtitle: WIP
 
 <script>
 document.addEventListener("DOMContentLoaded", async () => {
-  const SCHEDULE_URL = "https://raw.githubusercontent.com/YardRat0117/task/main/schedule.yml";
+  const SCHEDULE_URL = "https://raw.githubusercontent.com/YardRat0117/timeline/main/schedule.yml";
   const container = document.getElementById("timeline");
 
   try {
@@ -68,8 +70,8 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
 
   } catch(e) {
-    console.error("加载 timeline 出错:", e);
-    container.innerText = "加载 timeline 出错，请检查 YAML 或 URL";
+    console.error("Failed to load timeline:", e);
+    container.innerText = "Failed to load timeline，check YAML or URL";
   }
 });
 </script>
