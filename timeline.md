@@ -6,7 +6,7 @@ subtitle: Documentation is never innocent; it is always an instrument of power.
 
 > This is a timeline for me, and it's maintained as a YAML file [here](https://github.com/YardRat0117/timeline)
 
-<div id="timeline" style="height: 90vh; border: 1px solid lightgray;"></div>
+<div id="timeline"></div>
 
 <!-- js-yaml 库 -->
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
