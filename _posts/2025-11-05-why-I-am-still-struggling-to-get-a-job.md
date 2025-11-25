@@ -2,14 +2,14 @@
 layout: post
 title: Why I am still struggling to get a job?
 subtitle: Things I've done, and things I'm going to get done
-tags: [work, memoir]
+tags: [work, essay]
 comments: true
 mathjax: true
 author: YardRat
 ---
 
 > This is my very first post about my struggling for a work, and it is also my very first post in this site.
-> I'm writing this as more a memoir than a guide, so nothing "productive" here, just FYI.
+> I'm writing this as more a memoir essay than a guide, so nothing "productive" here, just FYI.
 
 ### 1 Why I want a job?
 
