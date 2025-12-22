@@ -18,6 +18,7 @@ navbar-links:
   Timeline: "timeline"
   My Resume: "https://yardrat0117.github.io/dev-infra-yardrat/anomy-resume.pdf"
   Links:
+    - Pluto Kirin: "https://plutokirin.github.io/PlutoKirin_Docs"
     - Xuan Insr: "https://xuan-insr.github.io/"
     - Isshiki Hugh: "https://note.isshikih.top/"
 
@@ -219,7 +220,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "China/Hangzhou"
+timezone: "Asia/Shanghai"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

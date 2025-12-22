@@ -8,7 +8,7 @@ subtitle: Documentation is never innocent; it is always an instrument of power.
 
 <div id="timeline"></div>
 
-<!-- js-yaml 库 -->
+<!-- js-yaml -->
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
 <!-- vis-js Standalone build -->
 <script src="https://unpkg.com/vis-timeline@7.7.1/standalone/umd/vis-timeline-graph2d.min.js"></script>
@@ -19,18 +19,18 @@ document.addEventListener("DOMContentLoaded", async () => {
   const container = document.getElementById("timeline");
 
   try {
-    // 1. 获取 YAML 并解析
+    // Load YAML file and parse with js-yaml
     const text = await fetch(SCHEDULE_URL).then(r => r.text());
     const data = jsyaml.load(text);
     console.log("Parsed YAML:", data);
 
-    // 2. 构造 groups（每个 group 保持原顺序，可重复）
+    // 2. Construct groups
     const groups = data.map((g, idx) => ({
       id: `group_${idx}`,
       content: g.group
     }));
 
-    // 3. 构造 items
+    // 3. Construct items
     let itemId = 1;
     const itemsArray = [];
     data.forEach((group, gIdx) => {
@@ -38,8 +38,8 @@ document.addEventListener("DOMContentLoaded", async () => {
         group.steps.forEach(step => {
           const statusColors = {
             done: "#8bc34a",
-            active: "#2196f3",
-            pending: "#ccc"
+            wip: "#2196f3",
+            pending: "#ff9800"
           };
           itemsArray.push({
             id: itemId++,
@@ -55,14 +55,10 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     const items = new vis.DataSet(itemsArray);
 
-    // 4. 使用正确的构造函数传入 groups
+    // 4. Build figures
     new vis.Timeline(container, items, groups, {
-      stack: false,
-      editable: {
-        add: true,
-        updateTime: true,
-        remove: true
-      },
+      stack: true,
+      editable: false,
       horizontalScroll: true,
       zoomKey: "ctrlKey",
       maxHeight: "90vh",
